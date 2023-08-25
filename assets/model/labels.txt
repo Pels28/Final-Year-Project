@@ -1,0 +1,49 @@
+Cassava bacterial blight
+Cassava brown streak virus disease
+Cassava green mite
+Cassava healthy
+Cassava mosaic virus disease
+Citrus Black spot
+Citrus canker
+Citrus healthy
+Citrus Melanose
+Cocoa anthracnose
+Cocoa cssvd
+Cocoa healthy
+Corn (maize) Cercospora leaf spot Gray leaf spot
+Corn (maize) Common rust 
+Corn (maize) healthy
+Corn (maize) Northern Leaf Blight
+Groundnut early leaf spot
+Groundnut early rust
+Groundnut healthy
+Groundnut late leaf spot
+Groundnut nutrition deficiency
+Groundnut rust
+Orange Haunglongbing (Citrus greening)
+Palm brown spots
+Palm healthy
+Palm white scale phase1
+Palm white scale phase2
+Palm white scale phase3
+Pepper bell Bacterial spot
+Pepper bell healthy
+Potato Early blight
+Potato healthy
+Potato Late blight
+Rice bacterial leaf blight
+Rice brown spot
+Rice Leaf smut
+Tomato Bacterial spot
+Tomato Early blight
+Tomato healthy
+Tomato Late blight
+Tomato Leaf Mold
+Tomato Septoria leaf spot
+Tomato Target Spot
+Tomato mosaic virus
+Tomato  Yellow Leaf Curl Virus
+Tomato Two-spotted spider mite
+Wheat healthy
+Wheat septoria
+Wheat stripe rust
